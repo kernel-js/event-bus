@@ -1,0 +1,8 @@
+.idea
+dist
+index.js
+es6
+node_modules
+.DS_Store
+index.js
+.coveralls.yml
