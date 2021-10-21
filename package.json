@@ -18,6 +18,9 @@
     "type": "git",
     "url": "git+https://github.com/kernel-js/event-bus.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "Carlos Henrique Escouto <carloshenriqueescouto@gmail.com>",
   "contributors": [
     "Gus <gus@brid-it.com>",
