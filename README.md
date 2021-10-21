@@ -17,9 +17,9 @@ tested on a day-to-day basis. The idea is not to reinvent the wheel, just join t
 
 This library was developed by
 
+- Carlos Henrique Escouto
 - Gustavo Siqueira
 - Bruno Santos
-- Carlos Henrique Escouto
 
 ## Contribute
 
