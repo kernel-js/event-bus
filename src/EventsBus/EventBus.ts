@@ -45,4 +45,15 @@ export class EventBus implements IEventBus {
   public getTopics(): ITopic[] {
     return this._topics;
   };
+
+  /**
+   *
+   *
+   * @param {string} identifier
+   * @return void
+   * @memberof IEventBus
+   */
+  public deleteTopic(identifier: string): void {
+    delete this._topics[identifier];
+  }
 }

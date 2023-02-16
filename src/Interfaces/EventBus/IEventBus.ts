@@ -25,4 +25,13 @@ export interface IEventBus {
    * @memberof IEventBus
    */
   getTopics(): ITopic[];
+
+  /**
+   *
+   *
+   * @param {string} identifier
+   * @return void
+   * @memberof IEventBus
+   */
+  deleteTopic(identifier: string): void
 }
