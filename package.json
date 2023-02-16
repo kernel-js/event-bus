@@ -1,6 +1,6 @@
 {
   "name": "@kernel-js/event-bus",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "description": "Event sourcing pattern for Kernel Framework",
   "main": "./dist/index.js",
   "module": "./es6/index.js",
